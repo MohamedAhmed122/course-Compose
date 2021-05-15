@@ -1,5 +1,5 @@
 .primaryBtn {
-  background-color: #eac74d;
+  background-color: #1769aa;
   width: 300px;
   height: 46px;
   border-radius: 10px;
@@ -14,7 +14,7 @@
   outline-width: 0;
 }
 .primaryBtn:hover {
-  background-color: #e7c64f;
+  background-color: #2196f3;
 }
 .btnDisabled {
   background-color: rgb(165, 160, 160);
